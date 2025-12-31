@@ -2,7 +2,7 @@
 // Export Sikkim Boundary + DEM
 // ---------------------------
 
-// 🔹 Parameters
+//  Parameters
 var driveFolder = 'EarthEngineExports';   // Change to your Google Drive folder name
 var exportCRS = 'EPSG:4326';              // WGS84
 var scaleDEM = 30;                        // meters per pixel
@@ -47,4 +47,5 @@ Export.table.toDrive({
   fileFormat: 'SHP'
 });
 
-print('✅ Exports ready — check the Tasks tab and click RUN for each.');
+print('Exports ready — check the Tasks tab and click RUN for each.');
+
