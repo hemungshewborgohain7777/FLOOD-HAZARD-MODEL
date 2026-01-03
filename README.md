@@ -3,6 +3,7 @@ Flood Hazard Model – Sikkim (2023)
 **Sikkim FHM. jpeg is the Final Map**
 
 
+
 1.	Project Overview / Problem Statement
 
 Sikkim is a mountainous Himalayan state that experiences frequent flooding and flash flood events due to intense rainfall, steep slopes, river incision, and glacial melt. The devastating 2023 flood events highlighted the urgent need for spatial flood-risk assessment to identify potential inundation zones and support disaster preparedness.
