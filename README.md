@@ -84,6 +84,8 @@ ________________________________________
 •	50% flood level shows significant expansion into adjacent low-lying areas
 •	Higher elevation regions remain largely unaffected due to steep relief
 •	Terrain plays a dominant role in controlling flood extent in mountainous regions like Sikkim
+
+Flood Recording .mov Shows the Animation of Flooding in Sikkim Region.
 ________________________________________
 8.	 What I Learned
 
