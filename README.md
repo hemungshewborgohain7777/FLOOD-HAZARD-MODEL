@@ -1,4 +1,5 @@
 Flood Hazard Model – Sikkim (2023)
+### **Flood Recording .mov shows the animation of flooding in the Sikkim region**
 
 1.	Project Overview / Problem Statement
 
@@ -84,9 +85,6 @@ ________________________________________
 •	50% flood level shows significant expansion into adjacent low-lying areas
 •	Higher elevation regions remain largely unaffected due to steep relief
 •	Terrain plays a dominant role in controlling flood extent in mountainous regions like Sikkim
-
-### **Flood Recording .mov shows the animation of flooding in the Sikkim region**
-
 ________________________________________
 8.	 What I Learned
 
